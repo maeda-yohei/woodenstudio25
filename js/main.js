@@ -65,7 +65,7 @@ mm.add("(max-width: 599px)",() => {
                 trigger: ".concept-first .column-left",
                 start: "top center",
                 // マーカー入れる
-                markers: true
+                // markers: true
             }
         }
     )
@@ -84,7 +84,7 @@ mm.add("(max-width: 599px)",() => {
                 trigger: ".concept-first .column-right",
                 start: "top center",
                 // マーカー入れる
-                markers: true
+                // markers: true
             }
         }
       
